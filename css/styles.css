@@ -580,7 +580,7 @@ margin: 5px;
 }
 
 .btn-menu:hover .bar-bleu{
-animation: download-effect .5s ease;
+animation: download-effect .5s ease-in-out;
 }
 
 .logo{
