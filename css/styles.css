@@ -292,7 +292,8 @@ header .header-content .inner p {
 }
 
 footer {
-    background-color:#2d2d2d;
+    background-color:whitesmoke;
+    color: #1F2AF8 !important;
 }
 
 @media(min-width:768px) {
